@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\barry\\Workspace\\csharp\\garysgarage\\garysgarage.csproj": {}
+    "C:\\Users\\geish\\workspace\\C9\\back-end\\Garys-Garage\\garysgarage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\barry\\Workspace\\csharp\\garysgarage\\garysgarage.csproj": {
+    "C:\\Users\\geish\\workspace\\C9\\back-end\\Garys-Garage\\garysgarage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\barry\\Workspace\\csharp\\garysgarage\\garysgarage.csproj",
+        "projectUniqueName": "C:\\Users\\geish\\workspace\\C9\\back-end\\Garys-Garage\\garysgarage.csproj",
         "projectName": "garysgarage",
-        "projectPath": "C:\\Users\\barry\\Workspace\\csharp\\garysgarage\\garysgarage.csproj",
-        "packagesPath": "C:\\Users\\barry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\barry\\Workspace\\csharp\\garysgarage\\obj\\",
+        "projectPath": "C:\\Users\\geish\\workspace\\C9\\back-end\\Garys-Garage\\garysgarage.csproj",
+        "packagesPath": "C:\\Users\\geish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geish\\workspace\\C9\\back-end\\Garys-Garage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\barry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\geish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
